@@ -155,11 +155,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
-##EXTINF:-1 ch-number="704" tvg-id="Primetime" group-title="English Movies & Series" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",704 PRIMEtime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f998ad175003b9f6d40fb5c92f19e210:65372a3148e3a622b4229fd86ea4e160
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5049/default.mpd
-
 #EXTINF:-1 ch-number="706" tvg-id="HITS" group-title="English Movies & Series" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",706 HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
