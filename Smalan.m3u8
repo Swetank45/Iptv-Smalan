@@ -6,6 +6,7 @@
 
 ############################## Entertainment  ########################################
 
+
 #EXTINF:-1 tvg-id="ColorsHD" group-title="Entertainment" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
@@ -64,6 +65,17 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", & Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+
+########################################################## Music #########################################################
+
+
+#EXTINF:-1 ch-number="718" tvg-id="MTVLive" group-title="Music" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png",718 MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+
+
 
 
 ################### English Movies & Series ###############################
@@ -209,18 +221,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
-#EXTINF:-1 ch-number="718" tvg-id="MTVLive" group-title="English Movies & Series" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png",718 MTV Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="English Movies & Series" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
-####################################################  News   ########################################
+#################################################### News ########################################
 
 
 #EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN
@@ -387,7 +394,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
-######################################  Sports   #####################################################################
+###################################### Sports #####################################################################
 
 
 #EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.mjh.nz/.images/sevenml-FAST.png" group-title="Sports",(VPN AU) 7 Cricket HD
