@@ -411,28 +411,28 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="btsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
+#EXTINF:-1 tvg-id="btsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
 http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="btsport3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
+#EXTINF:-1 tvg-id="btsport4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
