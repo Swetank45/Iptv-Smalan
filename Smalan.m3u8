@@ -412,32 +412,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #EXTINF:-1 tvg-id="btsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30567&extension=m3u8&play_token=XiNAkhchOp
 
 #EXTINF:-1 tvg-id="btsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
-http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30566&extension=m3u8&play_token=oME0ALnPcb
 
 #EXTINF:-1 tvg-id="btsport3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30565&extension=m3u8&play_token=EzPpvv7a7y
 
 #EXTINF:-1 tvg-id="btsport4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1019935&extension=m3u8&play_token=LYceHbR04P
 
 #EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/j5wd314/In-Shot-20231220-132004407.jpg" group-title="Sports", Willow Cricket HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -447,7 +431,7 @@ http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
 #EXTINF:-0 tvg-id="WILXHD" tvg-name="Willow Xtra" tvg-logo="https://i.ibb.co/TcwbdDJ/In-Shot-20231220-130708637.jpg" group-title="Sports", Willow Xtra HD
-http://xtv.ooo:8080/live/3890/3890/347334.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1141780&extension=m3u8&play_token=wmxSSLujig
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" ch-number="423" tvg-logo="https://i.ibb.co/pw2gwgR/In-Shot-20231219-125346532.jpg" group-title="Sports", Sky Sports Cricket FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -471,13 +455,13 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-id="HD7" tvg-name="Super Sports Action" tvg-logo="https://i.ibb.co/PtpyDF0/In-Shot-20240113-223307229.jpg" group-title="Sports", SuperSports Action
-http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/571941.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=425668&extension=m3u8&play_token=AequulL4Cw
 
 #EXTINF:-0 tvg-id="12H" tvg-name="Super Sports Cricket" tvg-logo="https://i.ibb.co/CsmdGrp/In-Shot-20240114-122017446.jpg" group-title="Sports",SuperSports Cricket
-http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/377948.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extension=m3u8&play_token=MXQ6RTmwQB
 
 #EXTINF:-0 tvg-id="SH4" tvg-name="Super Sports Grandstand" tvg-logo="https://i.ibb.co/HBzB3Cq/In-Shot-20231219-183707664.jpg" group-title="Sports",SuperSports Grandstand
-http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/489565.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
 #EXTINF:-1 tvg-id="FoxCricket.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/fSbVzdj/In-Shot-20231220-004915922.jpg" group-title="Sports", Fox Sports 501 HD
 http://mytv-extra.com/live/t12mgxyb335/9832948789/355747.m3u8
@@ -540,7 +524,7 @@ https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd?%7CdrmScheme=clearkey&drmL
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/HC6WJhz/In-Shot-20231217-200932751.jpg" group-title="Sports", A Sports HD
-http://tv.cloudcdn.me/live.ts?channelId=12217&uid=134&deviceMac=00:1A:79:F1:B8:05
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Sports", DD Sports HD
 https://livectv.phando.com/8020/playlist.m3u8
