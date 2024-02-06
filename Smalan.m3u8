@@ -588,6 +588,16 @@ https://s4.radio.co/sfefce156f/listen
 #EXTINF:-1 tvg-id="RapMixx" tvg-logo="https://i.ibb.co/8X3xTKw/68c6aad4-0d96-4529-9de9-12083bfafce1.png" group-title="Radio",Hip Hop Mix US
 http://ais-sa2.cdnstream1.com/1988_64.aac
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",EDM Sessions
+https://s2.radio.co/s30844a0f4/listen
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Dance WorkOut
+https://drive.uber.radio/uber/sportifypop/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Bollywood
+https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+
 #EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://i.ibb.co/PTzHTzn/24dc0c00-2311-463d-b7ab-ec0cf34f37ab.png" group-title="Radio",AIR Vividh Bharti
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 
@@ -642,19 +652,12 @@ https://drive.uber.radio/uber/bollywooddance/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Now
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Badshah
-https://drive.uber.radio/uber/bollywoodbadshah/icecast.audio
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Party
 https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Bollywood
-https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood WorkOut
 #EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="https://i.ibb.co/xHZ58Dy/0eb2d0a5-8871-469c-894c-a006aec04f0f.png" group-title="Radio",My Radio
 http://stream-157.zeno.fm/84h97t3ewg0uv?zs=w7yH3nNlSKSc7KxnPVtbEA
-
 
 #EXTINF:-1 tvg-id="RadioEvergreen" tvg-logo="https://i.ibb.co/WKkFxZW/f45f2338-ad0d-422d-bf62-c74b2582ee9e.png" group-title="Radio",Goldy Evergreen
 https://stream-141.zeno.fm/n2fd0edh9k8uv?zs=VTa0ZVsNQjuAxAQpfT0dig
