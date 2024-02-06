@@ -621,8 +621,40 @@ https://stream-142.zeno.fm/6n6ewddtad0uv?zs=BczodFXbQvGXe2OKP2Eu5Q
 #EXTINF:-1 tvg-id="BigFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="Radio",92.7 Big FM
 http://sc-bb.1.fm:8017/
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Radio & Beyond
+http://185.80.220.12:8046/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Mix
+https://stream.beyondradio.co.uk/radio/8000/high
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",New Hits of Bollywood
+https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Super Cool Hits
+https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Love
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Dance
+https://drive.uber.radio/uber/bollywooddance/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Now
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Badshah
+https://drive.uber.radio/uber/bollywoodbadshah/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Party
+https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Bollywood
+https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood WorkOut
 #EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="https://i.ibb.co/xHZ58Dy/0eb2d0a5-8871-469c-894c-a006aec04f0f.png" group-title="Radio",My Radio
 http://stream-157.zeno.fm/84h97t3ewg0uv?zs=w7yH3nNlSKSc7KxnPVtbEA
+
 
 #EXTINF:-1 tvg-id="RadioEvergreen" tvg-logo="https://i.ibb.co/WKkFxZW/f45f2338-ad0d-422d-bf62-c74b2582ee9e.png" group-title="Radio",Goldy Evergreen
 https://stream-141.zeno.fm/n2fd0edh9k8uv?zs=VTa0ZVsNQjuAxAQpfT0dig
