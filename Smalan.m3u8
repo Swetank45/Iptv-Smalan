@@ -587,3 +587,40 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="VividhBharti" tvg-logo="" group-title="Radio",AIR Vividh Bharti
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="GoldFM" tvg-logo="" group-title="Radio",100.1 AIR Gold FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
+
+#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="" group-title="Radio",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="" group-title="Radio",Radio Mirchi Plus
+https://s3.radio.co/se787a5a6f/listen
+
+#EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="" group-title="Radio",Mirchi Top 20
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+
+#EXTINF:-1 tvg-id="KishoreKumarHits" tvg-logo="" group-title="Radio",Kishore Kumar Hits
+https://stream-142.zeno.fm/0ghtfp8ztm0uv?zs=xYlPcGchQCS0KiW9XMLLQg
+
+#EXTINF:-1 tvg-id="" tvg-logo="RadioLataMangeshkar" group-title="Radio",Radio Lata Mangeshkar 
+https://stream-162.zeno.fm/87xam8pf7tzuv?zs=h9G-pwdkROiD__zflE2T0g
+
+#EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="" group-title="Radio",Classical Hits
+http://stream-155.zeno.fm/m38h4nmgxs8uv?zs=E-NTB8loT6KswI5jajvfTg
+
+#EXTINF:-1 tvg-id="Bollywoodpuranegaane" tvg-logo="" group-title="Radio", Bollywood Purane Gaane
+https://stream-142.zeno.fm/6n6ewddtad0uv?zs=BczodFXbQvGXe2OKP2Eu5Q
+
+#EXTINF:-1 tvg-id="BigFM" tvg-logo="" group-title="Radio",92.7 Big FM
+http://sc-bb.1.fm:8017/
+
+#EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="" group-title="Radio",My Radio DJ
+http://stream-157.zeno.fm/84h97t3ewg0uv?zs=w7yH3nNlSKSc7KxnPVtbEA
+
+#EXTINF:-1 tvg-id="RadioEvergreen" tvg-logo="" group-title="Radio",Radio Evergreen
+https://stream-141.zeno.fm/n2fd0edh9k8uv?zs=VTa0ZVsNQjuAxAQpfT0dig
+
