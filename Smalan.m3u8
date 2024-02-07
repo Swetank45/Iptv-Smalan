@@ -591,11 +591,14 @@ http://ais-sa2.cdnstream1.com/1988_64.aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1362079274900062209/_UKKk1MJ_400x400.png" group-title="Radio",EDM Sessions
 https://s2.radio.co/s30844a0f4/listen
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Dance WorkOut
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VMtfkbw/Picsart-24-02-07-09-07-59-559.png" group-title="Radio",Sportify Dance WorkOut
 https://drive.uber.radio/uber/sportifypop/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K24KcrC/Picsart-24-02-07-09-11-52-282.png" group-title="Radio",Sportify Bollywood
 https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Trending Workout
+https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
 #EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://i.ibb.co/PTzHTzn/24dc0c00-2311-463d-b7ab-ec0cf34f37ab.png" group-title="Radio",AIR Vividh Bharti
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
