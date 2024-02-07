@@ -488,6 +488,13 @@ https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 #EXTINF:-0 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ibb.co/HXdx4zh/In-Shot-20231220-132833176.jpg" group-title="Sports", Ten Sports HD
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
+#EXTINF:-0 tvg-id="TenCricket.in" tvg-name="Ten Cricket" tvg-logo="https://i.ibb.co/ccg3sx3/In-Shot-20240114-132216335.jpg" group-title="Sports", Ten Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
+
 #EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/HC6WJhz/In-Shot-20231217-200932751.jpg" group-title="Sports", A Sports HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
