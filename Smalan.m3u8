@@ -592,19 +592,19 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664k
 #EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://i.ibb.co/PTzHTzn/24dc0c00-2311-463d-b7ab-ec0cf34f37ab.png" group-title="Radio",AIR Vividh Bharti
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GoldFM" tvg-logo="https://i.ibb.co/Jzz5mH0/25768b70-edde-4e41-87a4-d59f5b321dd0.png" group-title="Radio",100.1 AIR Gold FM
+#EXTINF:-1 tvg-id="GoldFM" tvg-logo="https://i.ibb.co/Jzz5mH0/25768b70-edde-4e41-87a4-d59f5b321dd0.png" group-title="Radio",AIR Gold FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VYDcMkD/a257d7f8-65ad-443d-b5a9-097e8c4f360c.png" group-title="Radio",AIR FM Rainbow
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",95.1 Sangeet Radio
+#EXTINF:-1 tvg-id="https://i.ibb.co/DDQVqmr/bfdb4a3b-1e87-48ff-b4de-fc7a94dd4355.png" tvg-logo="" group-title="Radio",95.1 Sangeet Radio
 https://ice8.securenetsystems.net/SGTRADIO
 
-#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://i.ibb.co/PgPBBQq/fd77ed1b-3994-47a1-9e9f-3e22749307e2.png" group-title="Radio",98.3 Radio Mirchi
+#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://i.ibb.co/R39hrZT/f0e70c52-be7c-4875-97b7-76302af5ff0b.png" group-title="Radio",Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",89.6 Radio Mirchi One
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0mkp7Bq/345ede8a-e71e-4bcc-9176-791edf980879.png" group-title="Radio",Radio Mirchi One
 https://streams.radio.co/s8d06d0298/listen
 
 #EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="https://static.toiimg.com/thumb/msid-92585845,width-400,resizemode-4/92585845.jpg" group-title="Radio",Radio Mirchi Plus
@@ -613,10 +613,10 @@ https://s3.radio.co/se787a5a6f/listen
 #EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="https://i.ibb.co/vjqVfm9/1192d555-fc6d-4021-99fc-58bfa22d9ef1.png" group-title="Radio",Mirchi Top 20
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Mirchi Love
+#EXTINF:-1 tvg-id="https://static.toiimg.com/photo/msid-57752295/57752295.jpg" tvg-logo="" group-title="Radio",Mirchi Love
 https://drive.uber.radio/uber/lrbollywood/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",107.2 Fever FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HgtW1YM/c0387a84-7ee0-4c80-bec9-6bf81e321020.png" group-title="Radio",Fever FM
 https://radio.canstream.co.uk:8115/live.mp3
 
 #EXTINF:-1 tvg-id="KishoreKumarHits" tvg-logo="https://i.ibb.co/gjVxsWc/46a100cc-b224-4bc7-b3a9-038dbe165236.png" group-title="Radio",Kishore Kumar Hits
@@ -629,19 +629,21 @@ https://stream-162.zeno.fm/87xam8pf7tzuv?zs=h9G-pwdkROiD__zflE2T0g
 https://stream-149.zeno.fm/mrcz5sus1p8uv?zs=RfbxBToqSFOswyHJMFw1ag
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcPYKFF/d6e5b119-1547-4f04-8d94-9c07394df1a8.png" group-title="Radio",Mohammed Rafi Hits
+https://stream-149.zeno.fm/2xx62x8ztm0uv?zs=bztETwcqT12_g4Cfz1q9ZA
+
 #EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="https://i.ibb.co/YjyjNNR/9082ec2d-67ac-4785-b8ff-980cde4e7a17.png" group-title="Radio",Classic Hits
 http://stream-155.zeno.fm/m38h4nmgxs8uv?zs=E-NTB8loT6KswI5jajvfTg
 
 #EXTINF:-1 tvg-id="Bollywoodgaanepurane" tvg-logo="https://i.ibb.co/q1dh0gY/2cd64796-6964-4f24-a56a-7f03f01dfdc7.png" group-title="Radio", Bollywood Gaane Purane
 https://stream-142.zeno.fm/6n6ewddtad0uv?zs=BczodFXbQvGXe2OKP2Eu5Q
 
-#EXTINF:-1 tvg-id="BigFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="Radio",92.7 Big FM
+#EXTINF:-1 tvg-id="BigFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="Radio",Big FM
 http://sc-bb.1.fm:8017/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VvDKwMK/55b72fdf-040a-46bd-bfaa-c07164ec1bdc.png" group-title="Radio",Bollywood Radio & Beyond
 http://185.80.220.12:8046/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://companieslogo.com/img/orig/RADIOCITY.NS-42ad2e24.png?t=1604870869" group-title="Radio",Radio City 91.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://companieslogo.com/img/orig/RADIOCITY.NS-42ad2e24.png?t=1604870869" group-title="Radio",Radio City
 https://prclive1.listenon.in/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DCCcFQT/f8599877-146b-444a-9447-f13bf5fbf544.png" group-title="Radio",Bollywood Mix
