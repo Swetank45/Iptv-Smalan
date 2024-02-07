@@ -587,7 +587,7 @@ https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="Radio",All India Radio
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/chunklist.m3u8
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
 
 #EXTINF:-1 tvg-id="VividhBharti" tvg-logo="https://i.ibb.co/PTzHTzn/24dc0c00-2311-463d-b7ab-ec0cf34f37ab.png" group-title="Radio",AIR Vividh Bharti
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
