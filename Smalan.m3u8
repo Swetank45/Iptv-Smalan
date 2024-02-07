@@ -552,13 +552,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
 
-#EXTINF:-1 tvg-id="DanceMachine" tvg-logo="https://cdn-radiotime-logos.tunein.com/p316945g.png" group-title="Radio",Dance Machine
+#EXTINF:-1 tvg-id="DanceMachine" tvg-logo="https://i.ibb.co/23T3nHP/755aeb74-d1b7-4d9a-a97e-3804570ec641.png" group-title="Radio",Dance Machine
 https://edm.streeemer.com/listen/edm/radio.aac
 
 #EXTINF:-1 tvg-id="HouseNation.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpE1UouFJFrcF4wjtRkGoh3TKt_t6BeO5-Dg&usqp=CAU" group-title="Radio",House Nation UK
 https://streaming.radio.co/s06bd9d805/listen
 
-#EXTINF:-1 tvg-id="Dancerevolution.uk" tvg-logo="https://static.wikia.nocookie.net/popnmusic/images/3/34/DDR2009Logo.png/revision/latest?cb=20190127232741" group-title="Radio",Dance Revolution
+#EXTINF:-1 tvg-id="Dancerevolution.uk" tvg-logo="https://i.ibb.co/5RbMGtS/f8ed080f-b457-4962-a545-cbecd11210d2.png" group-title="Radio",Dance Revolution
 https://s5.radio.co/s89dcf578d/listen
 
 #EXTINF:-1 tvg-id="POPHits" tvg-logo="https://i.ibb.co/nkBgvg3/5ab38d38-e5f8-4d78-beab-0b03d2e4546d.png" group-title="Radio",POP Hits UK
@@ -604,10 +604,10 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 #EXTINF:-1 tvg-id="GoldFM" tvg-logo="https://i.ibb.co/Jzz5mH0/25768b70-edde-4e41-87a4-d59f5b321dd0.png" group-title="Radio",100.1 AIR Gold FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 
-#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="" group-title="Radio",98.3 Radio Mirchi
+#EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://i.ibb.co/PgPBBQq/fd77ed1b-3994-47a1-9e9f-3e22749307e2.png" group-title="Radio",98.3 Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="https://i.ibb.co/PgPBBQq/fd77ed1b-3994-47a1-9e9f-3e22749307e2.png" group-title="Radio",Radio Mirchi Plus
+#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="" group-title="Radio",Radio Mirchi Plus
 https://s3.radio.co/se787a5a6f/listen
 
 #EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="https://i.ibb.co/vjqVfm9/1192d555-fc6d-4021-99fc-58bfa22d9ef1.png" group-title="Radio",Mirchi Top 20
@@ -622,7 +622,7 @@ https://stream-162.zeno.fm/87xam8pf7tzuv?zs=h9G-pwdkROiD__zflE2T0g
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q94t8Fs/c116f29a-d6a1-4aea-ab66-e4da2514cf33.png" group-title="Radio",Mukesh Kumar Hits
 https://stream-149.zeno.fm/mrcz5sus1p8uv?zs=RfbxBToqSFOswyHJMFw1ag
 
-#EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="" group-title="Radio",Classical Hits
+#EXTINF:-1 tvg-id="ClassicalHits" tvg-logo="https://i.ibb.co/YjyjNNR/9082ec2d-67ac-4785-b8ff-980cde4e7a17.png" group-title="Radio",Classic Hits
 http://stream-155.zeno.fm/m38h4nmgxs8uv?zs=E-NTB8loT6KswI5jajvfTg
 
 #EXTINF:-1 tvg-id="Bollywoodgaanepurane" tvg-logo="https://i.ibb.co/q1dh0gY/2cd64796-6964-4f24-a56a-7f03f01dfdc7.png" group-title="Radio", Bollywood Gaane Purane
@@ -631,25 +631,25 @@ https://stream-142.zeno.fm/6n6ewddtad0uv?zs=BczodFXbQvGXe2OKP2Eu5Q
 #EXTINF:-1 tvg-id="BigFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/BIGFM_NEW_LOGO_2019.png" group-title="Radio",92.7 Big FM
 http://sc-bb.1.fm:8017/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Radio & Beyond
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VvDKwMK/55b72fdf-040a-46bd-bfaa-c07164ec1bdc.png" group-title="Radio",Bollywood Radio & Beyond
 http://185.80.220.12:8046/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DCCcFQT/f8599877-146b-444a-9447-f13bf5fbf544.png" group-title="Radio",Bollywood Mix
 https://stream.beyondradio.co.uk/radio/8000/high
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",New Hits of Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qDC0sLx/21d24912-6480-4cfb-89c3-fff498687d45.png" group-title="Radio",New Hits of Bollywood
 https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Super Cool Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZM8nYwq/11fa5df8-020a-4d9c-bf54-ffe96e60009e.png" group-title="Radio",Bollywood Super Cool Hits
 https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Love
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSY5DkK/1dec500b-083d-434e-8c4e-40124b961803.png" group-title="Radio",Love Radio
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Dance
+#EXTINF:-1 tvg-id="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" tvg-logo="" group-title="Radio", Bollywood Dance
 https://drive.uber.radio/uber/bollywooddance/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jJxcqpb/In-Shot-20240207-082118065.png" group-title="Radio",Bollywood Now
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Party
