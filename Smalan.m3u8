@@ -588,13 +588,12 @@ https://s4.radio.co/sfefce156f/listen
 #EXTINF:-1 tvg-id="RapMixx" tvg-logo="https://i.ibb.co/8X3xTKw/68c6aad4-0d96-4529-9de9-12083bfafce1.png" group-title="Radio",Hip Hop Mix US
 http://ais-sa2.cdnstream1.com/1988_64.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",EDM Sessions
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1362079274900062209/_UKKk1MJ_400x400.png" group-title="Radio",EDM Sessions
 https://s2.radio.co/s30844a0f4/listen
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Dance WorkOut
 https://drive.uber.radio/uber/sportifypop/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Sportify Bollywood
 https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 
@@ -607,7 +606,7 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564k
 #EXTINF:-1 tvg-id="RadioMirchi" tvg-logo="https://i.ibb.co/PgPBBQq/fd77ed1b-3994-47a1-9e9f-3e22749307e2.png" group-title="Radio",98.3 Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="" group-title="Radio",Radio Mirchi Plus
+#EXTINF:-1 tvg-id="RadioMirchiPlus" tvg-logo="https://static.toiimg.com/thumb/msid-92585845,width-400,resizemode-4/92585845.jpg" group-title="Radio",Radio Mirchi Plus
 https://s3.radio.co/se787a5a6f/listen
 
 #EXTINF:-1 tvg-id="MirchiTop20" tvg-logo="https://i.ibb.co/vjqVfm9/1192d555-fc6d-4021-99fc-58bfa22d9ef1.png" group-title="Radio",Mirchi Top 20
@@ -646,16 +645,15 @@ https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSY5DkK/1dec500b-083d-434e-8c4e-40124b961803.png" group-title="Radio",Love Radio
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 
-#EXTINF:-1 tvg-id="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" tvg-logo="" group-title="Radio", Bollywood Dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" group-title="Radio", Bollywood Dance
 https://drive.uber.radio/uber/bollywooddance/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jJxcqpb/In-Shot-20240207-082118065.png" group-title="Radio",Bollywood Now
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio", Bollywood Party
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vs5181D/1a2810d0-6036-4256-82a7-593b2ccc6a1d.png" group-title="Radio", Bollywood Party
 https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Bollywood WorkOut
 #EXTINF:-1 tvg-id="MyRadioDJ" tvg-logo="https://i.ibb.co/xHZ58Dy/0eb2d0a5-8871-469c-894c-a006aec04f0f.png" group-title="Radio",My Radio
 http://stream-157.zeno.fm/84h97t3ewg0uv?zs=w7yH3nNlSKSc7KxnPVtbEA
 
