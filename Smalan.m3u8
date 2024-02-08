@@ -586,6 +586,12 @@ https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0MwMTQH/Picsart-24-02-07-17-43-04-557.png" group-title="Radio",Sportify Trending Workout
 https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Pulse FM Australia
+http://dabstream.pulsefm.com.au/au_tas_7T47_pulsefm
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",More FM NZ
+https://digitalstreams3.mediaworks.nz/more-IVC-high?Dist=TuneIn
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="Radio",All India Radio
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
 
