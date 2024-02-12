@@ -12,13 +12,13 @@
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",Sony HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment",Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",Sony Sab HD
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Entertainment",Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
@@ -343,13 +343,13 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC36000073J" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKPoe_LlUjSD86zNgEkvonUpLSTTn0JHV7qs5N6RPnjkbNl9rvHZq4WdyUaBxoZuJW7BDWioAZ4LzFLj_GxQ3BqDkTV624TapDAFCB3h3FLSfQJUPcHKeHh9XVpcWnPkwKKf6ZflJ2VR1V8JXDokBv2i5yd3gkgCCW9la1vsFeVWH19D3dFAHSvKn3aA/s1920/InShot_20240120_062002898.jpg" group-title="Animes & Kids",Retro Crush HD
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 
-#EXTINF:-1 tvg-id="INBD1300021X3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Animes & Kids",POGO HD
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Animes & Kids",POGO HD
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
-#EXTINF:-1 tvg-id="INBD13000205L" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Animes & Kids", C.N Hindi HD
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Animes & Kids", C.N Hindi HD
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Animes & Kids",Sony Yay
+#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Animes & Kids",Sony Yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
