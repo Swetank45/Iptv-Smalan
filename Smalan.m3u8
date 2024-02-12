@@ -12,10 +12,10 @@
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment",Sony HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Entertainment",Sony Sab HD
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
@@ -51,13 +51,13 @@ https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.ibb.co/n00FGx2/In-Shot-20240203-132007902.jpg" group-title="Hindi Movies",Bollywood HD
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi Movies",Sony Max HD
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Movies",Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest/scale-to-width-down/200?cb=20221026151354" group-title="Hindi Movies",Sony Max 2
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Movies",Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="Hindi Movies",Sony Wah
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Hindi Movies",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", & Pictures HD
@@ -189,7 +189,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="English Movies & Series" group-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+#EXTINF:-1 tvg-id="ts32" tvg-name="SonyPix" group-title="English Movies & Series" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",SONY PIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
