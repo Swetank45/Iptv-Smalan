@@ -33,10 +33,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpC02wh/6efb6c50-5853-4268-91c7-96dfef9e5528.png" group-title="Hindi Movies",The Movie Club
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YcFFYrx/1191464e-d73f-4277-985f-f61b6fbcd587.png" group-title="Hindi Movies",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nz73b67/a45b8cce-8a4e-45fa-995e-fc083eff07d8.png" group-title="Hindi Movies",Hollywood Desi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M7XDPfQ/cf206526-d8d6-46a6-a020-39ece12f3ce8.png" group-title="Hindi Movies",Hollywood Desi
 https://amg02537-skandhamediaser-hollywooddesi-samsungin-ad-bz.amagi.tv/playlist/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0
 
 #EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies",Colors Cineplex
