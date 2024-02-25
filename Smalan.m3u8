@@ -21,13 +21,13 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Sony Kal HD
+#EXTINF:-1 tvg-id="https://i.ibb.co/ZXLCvsx/Picsart-24-02-25-17-56-20-790.png" tvg-logo="" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #################################################### Indian Movies #############################################
@@ -86,7 +86,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 #EXTINF:-1 tvg-id="236" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png",MTV Beats HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Clubbing TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJ0rrfm/ecfa2342-8b18-43cb-acd5-1134e5c281d4.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooFimiGaane" tvg-logo="" group-title="Music",Shemaroo FilmiGaane
@@ -212,10 +212,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies & Series",Colors Infinity HD
+#EXTINF:-1 tvg-id="https://smartads.in/resources/assets/uploads/product_group/television/colors-infinity-hd.png" tvg-logo="" group-title="English Movies & Series",Colors Infinity HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies & Series",Comedy Central HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
 
@@ -367,7 +367,7 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC36000073J" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKPoe_LlUjSD86zNgEkvonUpLSTTn0JHV7qs5N6RPnjkbNl9rvHZq4WdyUaBxoZuJW7BDWioAZ4LzFLj_GxQ3BqDkTV624TapDAFCB3h3FLSfQJUPcHKeHh9XVpcWnPkwKKf6ZflJ2VR1V8JXDokBv2i5yd3gkgCCW9la1vsFeVWH19D3dFAHSvKn3aA/s1920/InShot_20240120_062002898.jpg" group-title="Animes & Kids",Retro Crush HD
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animes & Kids",Nick HD+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nickindia.com/wp-content/uploads/2021/01/hd-plus-logo.png" group-title="Animes & Kids",Nick HD+
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Animes & Kids",POGO HD
@@ -382,7 +382,7 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animes & Kids",Sonic Nick HD
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-logo="" group-title="Animes & Kids",Sonic HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
@@ -528,14 +528,14 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-0 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ibb.co/HXdx4zh/In-Shot-20231220-132833176.jpg" group-title="Sports", Ten Sports HD
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
-#EXTINF:-0 tvg-id="TenCricket.in" tvg-name="Ten Cricket" tvg-logo="https://i.ibb.co/ccg3sx3/In-Shot-20240114-132216335.jpg" group-title="Sports", Ten Cricket
+#EXTINF:-0 tvg-id="TenCricket.in" tvg-name="Ten Cricket" tvg-logo="https://i.pinimg.com/originals/eb/66/b7/eb66b79564aabb483e0deefbc386a3a8.png" group-title="Sports", Ten Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
 https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 
-#EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/HC6WJhz/In-Shot-20231217-200932751.jpg" group-title="Sports", A Sports HD
+#EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/wRhBdnw/Picsart-24-02-25-18-32-52-437.png" group-title="Sports", A Sports HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Sports", DD Sports HD
