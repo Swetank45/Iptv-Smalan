@@ -27,7 +27,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="https://i.ibb.co/ZXLCvsx/Picsart-24-02-25-17-56-20-790.png" tvg-logo="" group-title="Entertainment",Sony Kal HD
+#EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://i.ibb.co/ZXLCvsx/Picsart-24-02-25-17-56-20-790.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #################################################### Indian Movies #############################################
@@ -212,7 +212,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="https://smartads.in/resources/assets/uploads/product_group/television/colors-infinity-hd.png" tvg-logo="" group-title="English Movies & Series",Colors Infinity HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors-infinity-hd.png" group-title="English Movies & Series",Colors Infinity HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
@@ -382,7 +382,7 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-logo="" group-title="Animes & Kids",Sonic HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Animes & Kids",Sonic HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
@@ -633,10 +633,10 @@ https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0MwMTQH/Picsart-24-02-07-17-43-04-557.png" group-title="Radio",Sportify Trending Workout
 https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",Pulse FM Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5k3mNQ0/76f41652-87b6-43b4-9a20-f3988ede0ebc.png" group-title="Radio",Pulse FM Australia
 http://dabstream.pulsefm.com.au/au_tas_7T47_pulsefm
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",More FM NZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/More_FM_logo.png" group-title="Radio",More FM NZ
 https://digitalstreams3.mediaworks.nz/more-IVC-high?Dist=TuneIn
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="Radio",All India Radio
