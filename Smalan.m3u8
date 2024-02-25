@@ -376,7 +376,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Animes & Kids", C.N Hindi HD
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Animes & Kids",Sony Yay
+#EXTINF:-1 tvg-id="9" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Animes & Kids",Sony Yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
@@ -397,7 +397,7 @@ https://i.mjh.nz/7cricket-FAST.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
-#EXTINF:-1 ch-number="824" tvg-id="AstroCricket" group-title="Sports" tvg-logo="https://i.ibb.co/VDTBZY2/Picsart-24-02-25-19-13-45-707.png",824 Astro Cricket
+#EXTINF:-1 ch-number="824" tvg-id="AstroCricket" group-title="Sports" tvg-logo="https://i.ibb.co/rpBqkqC/Picsart-24-02-25-19-19-06-019.png",824 Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
