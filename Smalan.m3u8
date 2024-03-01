@@ -7,10 +7,10 @@
 ############################## Entertainment  ########################################
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD
+#EXTINF:-1 tvg-id="ts52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Entertainment",Colors HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsHD" group-title="Entertainment" ch-number="116" tvg-logo="https://i.ibb.co/209wCJT/Picsart-24-02-28-18-30-48-429.png",116 Colors UK HD
+#EXTINF:-1 tvg-id="ColorsHD" group-title="Entertainment" ch-number="116" tvg-logo="https://i.ibb.co/Sd0sMr8/Picsart-24-02-29-19-03-39-490.png",116 Colors HD UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
@@ -24,8 +24,11 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-id="ts438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="ts1045" tvg-logo="" group-title="Entertainment",Shemaroo Umang
+https://dai.google.com/linear/hls/pb/event/1FTmFXC8Q5qFG7CZ0oaJXA/stream/172c421f-00b6-4b0b-89ac-880f48cf151d:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -47,7 +50,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M7XDPfQ/cf206526-d8d6-46a6-a020-39ece12f3ce8.png" group-title="Hindi Movies",Hollywood Desi
 https://amg02537-skandhamediaser-hollywooddesi-samsungin-ad-bz.amagi.tv/playlist/amg02537-skandhamediaser-hollywooddesi-samsungin/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0
 
-#EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies",Colors Cineplex HD
+#EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies",Colors Cineplex HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies",Colors Cineplex Superhit
@@ -59,10 +62,10 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://i.ibb.co/2PTScKV/160a3262-d177-4959-8680-629ba9e6811a.png" group-title="Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.ibb.co/MhWpxCV/In-Shot-20240203-131930603.png" group-title="Hindi Movies",Classic Bollywood HD
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" group-title="Hindi Movies",Classic Bollywood HD
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.ibb.co/n00FGx2/In-Shot-20240203-132007902.jpg" group-title="Hindi Movies",Bollywood HD
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.ibb.co/MGKJG0P/Picsart-24-02-29-19-07-38-927.png" group-title="Hindi Movies",Bollywood HD
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Movies",Sony Max HD
@@ -86,16 +89,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
-#EXTINF:-1 tvg-id="236" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png",MTV Beats HD
+#EXTINF:-1 tvg-id="ts405" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png",MTV Beats HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJ0rrfm/ecfa2342-8b18-43cb-acd5-1134e5c281d4.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooFimiGaane" tvg-logo="" group-title="Music",Shemaroo FilmiGaane
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/7bb44ad3-3328-4bda-bdee-7c2d76d4e6c0/3.m3u8
+#EXTINF:-1 tvg-id="ShemarooFimiGaane" tvg-logo="https://i.ibb.co/x7RnCJX/Picsart-24-02-29-19-19-27-181.png" group-title="Music",Shemaroo FilmiGaane
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/8b78c37b-7fd6-4c14-8442-1b6dd2d04086:SIN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Brit-Asia Tv
+https://dai.google.com/linear/hls/pb/event/6AOKpRvMQYCIWxvG9jUSQg/stream/8fde1537-b2eb-436e-bec9-81b4c37874bc:TPE/master.m3u8
 
 ################### English Movies & Series ###############################
 
@@ -215,10 +219,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="English Movies & Series",Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="English Movies & Series",Colors Infinity HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
+#EXTINF:-1 tvg-id="ts307" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
 
@@ -373,10 +377,10 @@ https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nickindia.com/wp-content/uploads/2021/01/hd-plus-logo.png" group-title="Animes & Kids",Nick HD+
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ts239" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Animes & Kids",POGO HD
+#EXTINF:-1 tvg-id="239" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Animes & Kids",Pogo
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
-#EXTINF:-1 tvg-id="ts238" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Animes & Kids", C.N Hindi HD
+#EXTINF:-1 tvg-id="238" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Animes & Kids"Cartoon Network Hindi
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Animes & Kids",Sony Yay
@@ -385,7 +389,7 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Animes & Kids",Sonic HD
+#EXTINF:-1 tvg-id="127" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Animes & Kids",Sonic HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
@@ -410,16 +414,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1 tvg-id="btsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="tntsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30567&extension=m3u8&play_token=XiNAkhchOp
 
-#EXTINF:-1 tvg-id="btsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
+#EXTINF:-1 tvg-id="tntsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30566&extension=m3u8&play_token=oME0ALnPcb
 
-#EXTINF:-1 tvg-id="btsport3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="tntsports3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30565&extension=m3u8&play_token=EzPpvv7a7y
 
-#EXTINF:-1 tvg-id="btsport4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
+#EXTINF:-1 tvg-id="tntsports4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1019935&extension=m3u8&play_token=LYceHbR04P
 
 #EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/j5wd314/In-Shot-20231220-132004407.jpg" group-title="Sports", Willow Cricket HD
@@ -458,7 +462,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extensi
 #EXTINF:-0 tvg-id="SH4" tvg-name="Super Sports Grandstand" tvg-logo="https://i.ibb.co/HBzB3Cq/In-Shot-20231219-183707664.jpg" group-title="Sports",SuperSports Grandstand
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
-#EXTINF:-1 tvg-id="FoxCricket.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/fSbVzdj/In-Shot-20231220-004915922.jpg" group-title="Sports", Fox Sports 501 HD
+#EXTINF:-1 tvg-id="foxsports501.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/fSbVzdj/In-Shot-20231220-004915922.jpg" group-title="Sports", Fox Sports 501 HD
 http://mytv-extra.com/live/t12mgxyb335/9832948789/355747.m3u8
 
 #EXTINF:-1 tvg-id="FoxLeague.au" ch-number="502" tvg-name="Fox League" tvg-logo="https://i.ibb.co/HV6tzz8/In-Shot-20231219-110431077.jpg" group-title="Sports", Fox Sports 502 HD
@@ -531,7 +535,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-0 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ibb.co/HXdx4zh/In-Shot-20231220-132833176.jpg" group-title="Sports", Ten Sports HD
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
-#EXTINF:-0 tvg-id="TenCricket.in" tvg-name="Ten Cricket" tvg-logo="https://i.pinimg.com/originals/eb/66/b7/eb66b79564aabb483e0deefbc386a3a8.png" group-title="Sports", Ten Cricket
+#EXTINF:-0 tvg-id="065" tvg-name="Ten Cricket" tvg-logo="https://i.pinimg.com/originals/eb/66/b7/eb66b79564aabb483e0deefbc386a3a8.png" group-title="Sports", Ten Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
