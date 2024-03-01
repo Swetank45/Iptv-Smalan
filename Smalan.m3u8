@@ -27,8 +27,8 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ts1045" tvg-logo="" group-title="Entertainment",Shemaroo Umang
-https://dai.google.com/linear/hls/pb/event/1FTmFXC8Q5qFG7CZ0oaJXA/stream/172c421f-00b6-4b0b-89ac-880f48cf151d:SIN2/master.m3u8
+#EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/tJLH8hL/Picsart-24-03-01-16-44-50-990.png" group-title="Entertainment",Shemaroo Umang Plus
+https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
 #EXTINF:-1 tvg-id="406" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -80,6 +80,12 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="ts267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", & Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
+#EXTINF:-1 tvg-id="632" tvg-logo="https://i.ibb.co/2q6VXCc/Picsart-24-03-01-16-18-15-955.png" group-title="Hindi Movies",Star Gold HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WDNQhRr/Picsart-24-03-01-16-29-04-528.png" group-title="Hindi Movies",Star Gold Select HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
 
 ########################################################## Music #########################################################
 
@@ -96,10 +102,22 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/i
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Shemaroo FimiGaane" tvg-logo="https://i.ibb.co/x7RnCJX/Picsart-24-02-29-19-19-27-181.png" group-title="Music",Shemaroo FilmiGaane
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/8b78c37b-7fd6-4c14-8442-1b6dd2d04086:SIN/master.m3u8
+https://dai.google.com/linear/hls/event/GoIv9LpoTcWbRvzufQCQTQ/master.m3u8
 
-#EXTINF:-1 tvg-id="jio1192" tvg-logo="" group-title="Music",Brit-Asia Tv
-https://dai.google.com/linear/hls/pb/event/6AOKpRvMQYCIWxvG9jUSQg/stream/8fde1537-b2eb-436e-bec9-81b4c37874bc:TPE/master.m3u8
+#EXTINF:-1 tvg-id="jio1192" tvg-logo="https://i.ibb.co/7gQSBwz/Picsart-24-03-01-16-32-42-123.png" group-title="Music",Brit-Asia Tv
+https://dai.google.com/linear/hls/event/6AOKpRvMQYCIWxvG9jUSQg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D9WdcCh/e7815816-36e6-47d5-8366-cabbc33c0344.png" group-title="Music",Saga Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K55jg2M/Picsart-24-03-01-17-06-21-986.png" group-title="Music",Ghaint Punjab
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-ghaintpunjab-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZM5VRPz/5d98d70f-3fe6-4149-9ca5-1a52a52e5d06.png" group-title="Music",9XM
+https://amg01412-xiaomiasia-9xm-xiaomi-n1yqt.amagi.tv/playlist/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8
 
 ################### English Movies & Series ###############################
 
