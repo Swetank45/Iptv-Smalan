@@ -30,7 +30,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="" group-title="Entertainment",Shemaroo Umang
 https://dai.google.com/linear/hls/pb/event/1FTmFXC8Q5qFG7CZ0oaJXA/stream/172c421f-00b6-4b0b-89ac-880f48cf151d:SIN2/master.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="406" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="Entertainment",Sony Kal HD
@@ -95,10 +95,10 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/i
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJ0rrfm/ecfa2342-8b18-43cb-acd5-1134e5c281d4.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooFimiGaane" tvg-logo="https://i.ibb.co/x7RnCJX/Picsart-24-02-29-19-19-27-181.png" group-title="Music",Shemaroo FilmiGaane
+#EXTINF:-1 tvg-id="Shemaroo FimiGaane" tvg-logo="https://i.ibb.co/x7RnCJX/Picsart-24-02-29-19-19-27-181.png" group-title="Music",Shemaroo FilmiGaane
 https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/8b78c37b-7fd6-4c14-8442-1b6dd2d04086:SIN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Brit-Asia Tv
+#EXTINF:-1 tvg-id="jio1192" tvg-logo="" group-title="Music",Brit-Asia Tv
 https://dai.google.com/linear/hls/pb/event/6AOKpRvMQYCIWxvG9jUSQg/stream/8fde1537-b2eb-436e-bec9-81b4c37874bc:TPE/master.m3u8
 
 ################### English Movies & Series ###############################
