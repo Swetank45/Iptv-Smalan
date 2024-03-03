@@ -36,6 +36,10 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/in
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Zee World HD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
+
+
 #################################################### Indian Movies #############################################
 
 
@@ -86,6 +90,11 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WDNQhRr/Picsart-24-03-01-16-29-04-528.png" group-title="Hindi Movies",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 ########################################################## Music #########################################################
 
@@ -243,6 +252,8 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fall
 #EXTINF:-1 tvg-id="ts307" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies & Series",Sky Mix HD
+https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8
 
 #################################################### News ########################################
 
@@ -386,8 +397,8 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-id="INBD13000043W" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Animes & Kids",Animax
 https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
 
-#EXTINF:-1 tvg-id="241430" tvg-logo="https://i.ibb.co/N2BB3dw/Aniplus-Asia-Logo.png" group-title="Animes & Kids",Aniplus HD
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+#EXTINF:-1 tvg-id="241430" tvg-logo="https://i.ibb.co/N2BB3dw/Aniplus-Asia-Logo.png" group-title="Animes & Kids",Super Anime HD
+https://c5645f7013df454d8680e321ced27f02.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_SuperAnime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC36000073J" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKPoe_LlUjSD86zNgEkvonUpLSTTn0JHV7qs5N6RPnjkbNl9rvHZq4WdyUaBxoZuJW7BDWioAZ4LzFLj_GxQ3BqDkTV624TapDAFCB3h3FLSfQJUPcHKeHh9XVpcWnPkwKKf6ZflJ2VR1V8JXDokBv2i5yd3gkgCCW9la1vsFeVWH19D3dFAHSvKn3aA/s1920/InShot_20240120_062002898.jpg" group-title="Animes & Kids",Retro Crush HD
 https://amg01201-cinedigmenterta-retrocrush-tablo-jg47e.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-tablo/playlist.m3u8
