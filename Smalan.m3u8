@@ -432,16 +432,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1 tvg-id="tntsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/6JhyJqh/In-Shot-20231220-012348481.jpg", group-title="Sports", TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="tntsport1.uk" ch-number="430" tvg-logo="https://i.ibb.co/3FKXs4D/Picsart-24-03-02-19-48-51-118.png", group-title="Sports", TNT Sports 1 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30567&extension=m3u8&play_token=XiNAkhchOp
 
-#EXTINF:-1 tvg-id="tntsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/SJ2Ptnw/In-Shot-20231220-012325709.jpg", group-title="Sports", TNT Sports 2 FHD
+#EXTINF:-1 tvg-id="tntsport2.uk" ch-number="431"" tvg-logo="https://i.ibb.co/j5tKCPM/Picsart-24-03-02-19-49-19-113.png", group-title="Sports", TNT Sports 2 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30566&extension=m3u8&play_token=oME0ALnPcb
 
-#EXTINF:-1 tvg-id="tntsports3.uk" ch-number="432" tvg-logo="https://i.ibb.co/RbWvQK3/In-Shot-20231228-123801721.jpg", group-title="Sports", TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="tntsports3.uk" ch-number="432" tvg-logo="https://i.ibb.co/cQfRhhz/Picsart-24-03-02-19-49-38-677.png", group-title="Sports", TNT Sports 3 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30565&extension=m3u8&play_token=EzPpvv7a7y
 
-#EXTINF:-1 tvg-id="tntsports4.uk" ch-number="434" tvg-logo="https://i.ibb.co/S7zqnJL/In-Shot-20231220-012531194.jpg", group-title="Sports",TNT Sports 4 FHD
+#EXTINF:-1 tvg-id="tntsports4.uk" ch-number="434" tvg-logo="https://i.ibb.co/frP7JfD/Picsart-24-03-02-19-50-00-988.png", group-title="Sports",TNT Sports 4 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1019935&extension=m3u8&play_token=LYceHbR04P
 
 #EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/j5wd314/In-Shot-20231220-132004407.jpg" group-title="Sports", Willow Cricket HD
@@ -454,17 +454,17 @@ https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manife
 #EXTINF:-0 tvg-id="WILXHD" tvg-name="Willow Xtra" tvg-logo="https://i.ibb.co/TcwbdDJ/In-Shot-20231220-130708637.jpg" group-title="Sports", Willow Xtra HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1141780&extension=m3u8&play_token=wmxSSLujig
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" ch-number="423" tvg-logo="https://i.ibb.co/pw2gwgR/In-Shot-20231219-125346532.jpg" group-title="Sports", Sky Sports Cricket FHD
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" ch-number="423" tvg-logo="https://i.ibb.co/1f9N168/Picsart-24-03-02-21-05-25-355.png" group-title="Sports", Sky Sports Cricket FHD
 http://143.244.60.14:49893/Ycp6PzdWBnFvl5dOM3wVqM27343e876c160a8db5c5404d62ac77c25243d2d6c5808a2a6ac1/tracks-v1a1/mono.m3u8?token=c51314417108ba537e276249d9741080
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" ch-number="420" tvg-logo="https://i.ibb.co/Lg7pnFr/In-Shot-20231219-124850652.jpg", group-title="Sports",Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" ch-number="420" tvg-logo="https://i.ibb.co/PzzQRvr/Picsart-24-03-02-21-05-52-151.png", group-title="Sports",Sky Sports Main Event FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00034d0b4c47a219e93d880b4610d197:a5dcfa9627379c6928567092b6e5ce40
 https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" ch-number="429" tvg-logo="https://i.ibb.co/LJkmMCR/In-Shot-20231219-124944758.jpg" group-title="Sports", Sky Sports Mix FHD
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" ch-number="429" tvg-logo="https://i.ibb.co/hfj1T2Y/Picsart-24-03-02-21-06-21-639.png" group-title="Sports", Sky Sports Mix FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
