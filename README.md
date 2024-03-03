@@ -1,2 +1,2 @@
 
-Download and Upload these m3u files to your iptv player.
+For any request & queries contact me on X :- https://x.com/MalanSwetank
