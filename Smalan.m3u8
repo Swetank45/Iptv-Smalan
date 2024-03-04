@@ -10,7 +10,7 @@
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Entertainment",Colors HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsHD" group-title="Entertainment" ch-number="116" tvg-logo="https://i.ibb.co/Sd0sMr8/Picsart-24-02-29-19-03-39-490.png",116 Colors HD UK
+#EXTINF:-1 tvg-id="ColorsHD" group-title="Entertainment" ch-number="116" tvg-logo="https://i.ibb.co/6Zv4XLM/Picsart-24-03-03-09-16-26-071.png",116 Colors HD UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
@@ -30,13 +30,13 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/tJLH8hL/Picsart-24-03-01-16-44-50-990.png" group-title="Entertainment",Shemaroo Umang Plus
 https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
-#EXTINF:-1 tvg-id="406" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mtv-hd.gif" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2560px-MTV-Logo.svg.png" group-title="Entertainment",MTV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="sonykal.us" tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="Entertainment",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Zee World HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fGk8rtD/Picsart-24-03-04-10-27-50-523.png" group-title="Entertainment",Zee World HD
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
 
@@ -90,10 +90,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WDNQhRr/Picsart-24-03-01-16-29-04-528.png" group-title="Hindi Movies",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Bollywood Prime
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qv9Zkh5/Picsart-24-03-04-10-33-53-304.png" group-title="Entertainment",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",South Station
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nCKHDbX/806a31b4-7b66-4fbe-a417-a818b36e89f4.png" group-title="Entertainment",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 ########################################################## Music #########################################################
@@ -571,7 +571,7 @@ https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
 https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 
-#EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/wRhBdnw/Picsart-24-02-25-18-32-52-437.png" group-title="Sports", A Sports HD
+#EXTINF:-1 tvg-id="1247" tvg-name="Ary Sports" tvg-logo="https://i.ibb.co/pPprCDk/Picsart-24-03-03-08-25-49-167.png" group-title="Sports", A Sports HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=281100&extension=m3u8&play_token=WaulVidWjY
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Sports", DD Sports HD
