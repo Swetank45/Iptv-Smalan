@@ -27,7 +27,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="Entertainment",Colors Rishtey
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/tJLH8hL/Picsart-24-03-01-16-44-50-990.png" group-title="Entertainment",Shemaroo Umang Plus
+#EXTINF:-1 tvg-id="ts1045" tvg-logo="https://i.ibb.co/tQJyq9z/3f0fef6f-7922-46bc-8e56-9e11787e5251.png" group-title="Entertainment",Shemaroo Umang Plus
 https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8
 
 #EXTINF:-1 tvg-id="406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2560px-MTV-Logo.svg.png" group-title="Entertainment",MTV
@@ -63,7 +63,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallba
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Hindi Movies",Colors Cineplex Bollywood
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://i.ibb.co/2PTScKV/160a3262-d177-4959-8680-629ba9e6811a.png" group-title="Hindi Movies", Shemaroo Bollywood 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="Hindi Movies", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" group-title="Hindi Movies",Classic Bollywood HD
@@ -110,7 +110,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/i
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJ0rrfm/ecfa2342-8b18-43cb-acd5-1134e5c281d4.png" group-title="Music",Clubbing TV
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Shemaroo FimiGaane" tvg-logo="https://i.ibb.co/x7RnCJX/Picsart-24-02-29-19-19-27-181.png" group-title="Music",Shemaroo FilmiGaane
+#EXTINF:-1 tvg-id="Shemaroo FimiGaane" tvg-logo="https://i.ibb.co/wcP9bNy/f4719929-2bc2-4b2b-8ca3-ab73499a93b4.png" group-title="Music",Shemaroo FilmiGaane
 https://dai.google.com/linear/hls/event/GoIv9LpoTcWbRvzufQCQTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="jio1192" tvg-logo="https://i.ibb.co/7gQSBwz/Picsart-24-03-01-16-32-42-123.png" group-title="Music",Brit-Asia Tv
@@ -217,7 +217,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fall
 #EXTINF:-1 tvg-id="ts307" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies & Series",Sky Mix HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gd6qzhK/Picsart-24-03-07-15-54-23-151.png" group-title="English Movies & Series",Sky Mix HD
 https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8
 
 #################################################### News ########################################
@@ -374,7 +374,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaries",Animal Planet [Multi Audio]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3NdYbm2/860ccca6-eb4a-4336-935a-7bab4d3ba25f.png" group-title="Documentaries",Animal Planet [Multi Audio]
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Animal_Planet.m3u8
 
 
@@ -436,7 +436,7 @@ https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Discovery_
 #EXTINF:-1 tvg-id="9" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Animes & Kids",Sony Yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsyCToZ04yvJ91wAEBJI9P_SZ44VtUZRIcHMOE6qNZSTAxnkza6HbVgkI3pAqhUoHZlTBU7flEI0lbd3RcBZDkhHxeMkZyB9yUqaj4-ND_tyI8ljH_mV69tT-4a45Wkkz-zTzpPjvdqhVfpwFeD4HfwO0WTTotZSo2HMAErLW55X7YTwtiPl_fKMymhs/s1920/InShot_20240119_150008371.jpg" group-title="Animes & Kids",Anime All Day
+#EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://i.ibb.co/WpJg0hy/Picsart-24-03-03-07-50-13-722.png" group-title="Animes & Kids",Anime All Day
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Animes & Kids",Sonic HD
@@ -476,14 +476,14 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=30565&extensio
 #EXTINF:-1 tvg-id="tntsports4.uk" ch-number="434" tvg-logo="https://i.ibb.co/Vmv3M1x/Picsart-24-03-04-13-21-14-759.png", group-title="Sports",TNT Sports 4 FHD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1019935&extension=m3u8&play_token=LYceHbR04P
 
-#EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/j5wd314/In-Shot-20231220-132004407.jpg" group-title="Sports", Willow Cricket HD
+#EXTINF:-0 tvg-id="WLLOHD" tvg-name="Willow Cricket" tvg-logo="https://i.ibb.co/KhjzHj0/Picsart-24-03-07-21-29-12-746.png" group-title="Sports", Willow Cricket HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
-#EXTINF:-0 tvg-id="WILXHD" tvg-name="Willow Xtra" tvg-logo="https://i.ibb.co/TcwbdDJ/In-Shot-20231220-130708637.jpg" group-title="Sports", Willow Xtra HD
+#EXTINF:-0 tvg-id="WILXHD" tvg-name="Willow Xtra" tvg-logo="https://i.ibb.co/xJS4VdX/1cc57d78-f51b-473d-a5e1-8f52ab94620e.png" group-title="Sports", Willow Xtra HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=1141780&extension=m3u8&play_token=wmxSSLujig
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" ch-number="423" tvg-logo="https://i.ibb.co/1f9N168/Picsart-24-03-02-21-05-25-355.png" group-title="Sports", Sky Sports Cricket FHD
@@ -515,19 +515,19 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extensi
 #EXTINF:-1 tvg-id="foxsports501.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/VNtX4V6/In-Shot-20240304-113658955.png" group-title="Sports", Fox Sports 501 HD
 http://mytv-extra.com/live/t12mgxyb335/9832948789/355747.m3u8
 
-#EXTINF:-1 tvg-id="FoxLeague.au" ch-number="502" tvg-name="Fox League" tvg-logo="https://i.ibb.co/0qPqdwC/Picsart-24-03-04-11-47-24-769.png" group-title="Sports", Fox Sports 502 HD
+#EXTINF:-1 tvg-id="FoxLeague.au" ch-number="502" tvg-name="Fox League" tvg-logo="https://i.ibb.co/DGtpLnc/Picsart-24-03-08-15-22-51-877.png" group-title="Sports", Fox Sports 502 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544761.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports503.au" ch-number="257" tvg-name="Fox Sports 503" tvg-logo="https://i.ibb.co/G3MhFYb/Picsart-24-03-04-12-35-23-407.png" group-title="Sports", Fox Sports 503 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544760.m3u8
 
-#EXTINF:-1 tvg-id="FoxFooty.au" ch-number="504" tvg-name="Fox Footy" tvg-logo="https://i.ibb.co/xMd68dw/In-Shot-20240304-115000014.png" group-title="Sports", Fox Sports 504 HD
+#EXTINF:-1 tvg-id="FoxFooty.au" ch-number="504" tvg-name="Fox Footy" tvg-logo="https://i.ibb.co/JRWpwft/Picsart-24-03-08-15-37-47-656.png" group-title="Sports", Fox Sports 504 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544759.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports505.au" ch-number="505"" tvg-name="Sports" tvg-logo="https://i.ibb.co/hWG8Zsg/Picsart-24-03-04-13-14-36-888.png" group-title="Sports", Fox Sports 505 HD
 https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 tvg-id="FoxSports506.au" ch-number="506" tvg-name="Sports" tvg-logo="https://i.ibb.co/qp83h4x/Picsart-24-03-04-12-23-20-885.png" group-title="Sports", Fox Sports 506 HD
+#EXTINF:-1 tvg-id="FoxSports506.au" ch-number="506" tvg-name="Sports" tvg-logo="https://i.ibb.co/gFW6004/Picsart-24-03-08-14-56-56-806.png" group-title="Sports", Fox Sports 506 HD
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544757.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsMorePlus.au" ch-number="507" tvg-name="Sports" tvg-logo="https://i.ibb.co/VvMFJ7K/Picsart-24-03-04-12-14-41-469.png" group-title="Sports", Fox Sports More+
@@ -536,19 +536,19 @@ http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544756.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au" ch-number="500" tvg-name="Sports" tvg-logo="https://i.ibb.co/FBX58BG/Picsart-24-03-04-12-09-28-795.png" group-title="Sports", Fox Sports News
 http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/544749.m3u8
 
-#EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://i.ibb.co/CVWLVwk/In-Shot-20231220-022014517.jpg" group-title="Sports", Sky Sports Select NZ
+#EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://i.ibb.co/98QckHc/Picsart-24-03-07-12-20-41-867.png" group-title="Sports", Sky Sports Select NZ
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560112.m3u8
 
-#EXTINF:-1 tvg-id="341" tvg-name="Sky Sports 1" tvg-logo="https://i.ibb.co/DGtzTMV/In-Shot-20231220-022117050.jpg" group-title="Sports", Sky Sports 1 NZ
+#EXTINF:-1 tvg-id="341" tvg-name="Sky Sports 1" tvg-logo="https://i.ibb.co/dtvJ8K4/Picsart-24-03-07-12-21-13-471.png" group-title="Sports", Sky Sports 1 NZ
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560121.m3u8
 
-#EXTINF:-1 tvg-id="358" tvg-name="Sky Sports 2" tvg-logo="https://i.ibb.co/JHkxWNq/In-Shot-20231220-022524703.jpg" group-title="Sports", Sky Sports 2 NZ
+#EXTINF:-1 tvg-id="358" tvg-name="Sky Sports 2" tvg-logo="https://i.ibb.co/4N98ZfG/Picsart-24-03-07-12-21-39-629.png" group-title="Sports", Sky Sports 2 NZ
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560120.m3u8
 
-#EXTINF:-1 tvg-id="354" tvg-name="Sky Sports 3" tvg-logo="https://i.ibb.co/c6RnWP7/In-Shot-20231220-022809815.jpg" group-title="Sports", Sky Sports 3 NZ
+#EXTINF:-1 tvg-id="354" tvg-name="Sky Sports 3" tvg-logo="https://i.ibb.co/ZHLDNwb/Picsart-24-03-07-12-22-02-266.png" group-title="Sports", Sky Sports 3 NZ
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560119.m3u8
 
-#EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://i.ibb.co/jwFmxt0/In-Shot-20231220-023050484.jpg" group-title="Sports", Sky Sports 4 NZ
+#EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://i.ibb.co/WGWFGdh/Picsart-24-03-07-12-22-26-853.png" group-title="Sports", Sky Sports 4 NZ
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560118.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
