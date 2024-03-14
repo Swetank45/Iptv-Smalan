@@ -236,9 +236,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fall
 #EXTINF:-1 tvg-id="ts307" tvg-logo="https://i.ibb.co/yqxSq9H/dd4128a3-5b94-4afd-8e6e-639bcdbeb3ac.png" group-title="English Movies & Series",Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gd6qzhK/Picsart-24-03-07-15-54-23-151.png" group-title="English Movies & Series",Sky Mix HD
-https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gri14OLloKQOHOjc3o1eTw","kid":"8JCZbiASNleCCBsEK9X64g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="11" group-title="English Movies & Series"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f212033abf53d08e769c/images/512.webp",Star Movies Select HD
@@ -329,10 +326,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaries",TLC [Multi Audio]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b6tvmDh/Picsart-24-03-08-20-18-13-938.png" group-title="Documentaries",TLC [Multi Audio]
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/TLC_HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaries",TRVL Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wM0N3zz/Picsart-24-03-14-06-58-37-953.png" group-title="Documentaries",TRVL Channel
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/TRVL_Channel.m3u8
 
 #EXTINF:-1 ch-number="708" tvg-id="FoodNetwork" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network
@@ -350,7 +347,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMGcSGF/Picsart-24-03-03-10-25-42-762.png" group-title="Documentaries",Dicovery [Multi Audio]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yfGLt7K/Picsart-24-03-14-07-10-00-789.png" group-title="Documentaries", Discovery [Multi Audio]
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Discovery_HD.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" group-title="Documentaries" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",553 Discovery Asia
@@ -358,11 +355,14 @@ https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Discovery_
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaries",Discovery Science [Multi Audio]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dLNB6CZ/Picsart-24-03-08-20-12-52-805.png" group-title="Documentaries",Discovery Science [Multi Audio]
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Discovery_Science.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentaries",Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R43Q1W0/Picsart-24-03-08-20-25-29-428.png" group-title="Documentaries",Investigation Discovery
 https://raw.githubusercontent.com/Swetank45/Iptv-Smalan/main/Channels/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gd6qzhK/Picsart-24-03-07-15-54-23-151.png" group-title="Documentaries",Sky Mix HD
+https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8
 
 #EXTINF:-1 ch-number="714" tvg-id="CrimeInvestigation" group-title="Documentaries" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",714 Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -609,10 +609,10 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=78
 #EXTINF:-1 tvg-id="1033" group-title="Sports" tvg-logo="https://i.ibb.co/Z8rDDR9/In-Shot-20240115-190608004.jpg", Sports 18 - 1 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="EDGE Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports", EDGE Sports
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="EDGE Sports" tvg-logo="https://i.ibb.co/pPprCDk/Picsart-24-03-03-08-25-49-167.png" group-title="Sports", EDGE Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-0 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ibb.co/HXdx4zh/In-Shot-20231220-132833176.jpg" group-title="Sports", Ten Sports HD
+#EXTINF:-0 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports" tvg-logo="https://i.ibb.co/F8DRJKk/Picsart-24-03-12-21-17-58-992.png" group-title="Sports", Ten Sports HD
 https://ddh1.hlsjs.ru:443/ddh1/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-0 tvg-id="065" tvg-name="Ten Cricket" tvg-logo="https://i.pinimg.com/originals/eb/66/b7/eb66b79564aabb483e0deefbc386a3a8.png" group-title="Sports", Ten Cricket
