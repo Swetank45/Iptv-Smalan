@@ -566,19 +566,19 @@ http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/544756.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au" ch-number="500" tvg-name="Sports" tvg-logo="https://i.ibb.co/X3ybK5F/Picsart-24-03-22-09-22-21-605.png" group-title="Sports", Fox Sports News
 http://mix-dns.com:8080/live/gerry@interpool.ca/9nAnVecBBU/544749.m3u8
 
-#EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://i.ibb.co/98QckHc/Picsart-24-03-07-12-20-41-867.png" group-title="Sports", Sky Sports Select NZ
+#EXTINF:-1 tvg-id="353" tvg-name="Sky Sports Select" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19162459-6l4cdhhnoojtrvez.png" group-title="Sports", Sky Sport Select
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560112.m3u8
 
-#EXTINF:-1 tvg-id="341" tvg-name="Sky Sports 1" tvg-logo="https://i.ibb.co/dtvJ8K4/Picsart-24-03-07-12-21-13-471.png" group-title="Sports", Sky Sports 1 NZ
+#EXTINF:-1 tvg-id="341" tvg-name="Sky Sports 1" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161511-tqw32kvh47lami06.png" group-title="Sports", Sky Sport 1
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560121.m3u8
 
-#EXTINF:-1 tvg-id="358" tvg-name="Sky Sports 2" tvg-logo="https://i.ibb.co/4N98ZfG/Picsart-24-03-07-12-21-39-629.png" group-title="Sports", Sky Sports 2 NZ
+#EXTINF:-1 tvg-id="358" tvg-name="Sky Sports 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161545-kw0ruhxwjmpgiuti.png" group-title="Sports", Sky Sport 2
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560120.m3u8
 
-#EXTINF:-1 tvg-id="354" tvg-name="Sky Sports 3" tvg-logo="https://i.ibb.co/ZHLDNwb/Picsart-24-03-07-12-22-02-266.png" group-title="Sports", Sky Sports 3 NZ
+#EXTINF:-1 tvg-id="354" tvg-name="Sky Sports 3" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161810-j4644h4rs9lxzb1n.png" group-title="Sports", Sky Sport 3
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560119.m3u8
 
-#EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://i.ibb.co/WGWFGdh/Picsart-24-03-07-12-22-26-853.png" group-title="Sports", Sky Sports 4 NZ
+#EXTINF:-1 tvg-id="345" tvg-name="Sky Sports 4" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161737-acfuctcyv4ne5snu.png" group-title="Sports", Sky Sport 4
 http://mix-dns.com:8080/live/gerry%40interpool.ca/9nAnVecBBU/560118.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
