@@ -533,13 +533,13 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
 https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="HD7" tvg-name="Super Sports Action" tvg-logo="https://i.ibb.co/PtpyDF0/In-Shot-20240113-223307229.jpg" group-title="Sports", SuperSports Action
+#EXTINF:-1 tvg-id="HD7" tvg-name="Action" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="Sports", SuperSports Action
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=425668&extension=m3u8&play_token=AequulL4Cw
 
-#EXTINF:-0 tvg-id="12H" tvg-name="Super Sports Cricket" tvg-logo="https://i.ibb.co/CsmdGrp/In-Shot-20240114-122017446.jpg" group-title="Sports",SuperSports Cricket
+#EXTINF:-0 tvg-id="12H" tvg-name="Cricket" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="Sports",SuperSports Cricket
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239087&extension=m3u8&play_token=MXQ6RTmwQB
 
-#EXTINF:-0 tvg-id="SH4" tvg-name="Super Sports Grandstand" tvg-logo="https://i.ibb.co/HBzB3Cq/In-Shot-20231219-183707664.jpg" group-title="Sports",SuperSports Grandstand
+#EXTINF:-0 tvg-id="SH4" tvg-name="Grandstand" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="Sports",Grandstand
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:76:8d:80&stream=239079&extension=m3u8&play_token=RyBJL90fhR
 
 #EXTINF:-1 tvg-id="foxsports501.au" ch-number="501" tvg-name="Fox Cricket" tvg-logo="https://i.ibb.co/VNtX4V6/In-Shot-20240304-113658955.png" group-title="Sports", Fox Sports 501 HD
