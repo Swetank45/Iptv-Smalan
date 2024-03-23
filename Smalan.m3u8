@@ -443,7 +443,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-id="INBD13000043W" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Animes & Kids",Animax
-https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="241430" tvg-logo="https://i.ibb.co/N2BB3dw/Aniplus-Asia-Logo.png" group-title="Animes & Kids",Super Anime HD
 https://c5645f7013df454d8680e321ced27f02.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_SuperAnime/playlist.m3u8
@@ -476,7 +476,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallb
 ###################################### Sports #####################################################################
 
 
-#EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://i.mjh.nz/.images/sevenml-FAST.png" group-title="Sports",(VPN AU) 7 Cricket HD
+#EXTINF:-1 tvg-id="7cricket.au" tvg-logo="https://vmndims.kayosports.com.au/api/v2/img/65fbbe39e4b082ec4ce3cec8?location=menu-item&imwidth=320" group-title="Sports",Live Cricket HD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1220324/master.m3u8
 
 #EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
