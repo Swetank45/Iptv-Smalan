@@ -244,6 +244,15 @@ https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 #################################################### News ########################################
 
+#EXTINF:-1 tvg-id="ABP news.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1115px-ABP_News_logo.svg.png" group-title="Radio",ABP News
+https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/playlist/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zeenews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="Radio",Zee News
+https://amg01412-xiaomiasia-zeenews-xiaomi-nkeug.amagi.tv/playlist/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
+
+
+#################################################### News ########################################
+
 
 #EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
