@@ -242,13 +242,21 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallb
 https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 
-#################################################### News ########################################
+#################################################### Hindi News ########################################
 
-#EXTINF:-1 tvg-id="ABP news.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1115px-ABP_News_logo.svg.png" group-title="Radio",ABP News
+#EXTINF:-1 tvg-id="ts689" tvg-logo="https://i.ibb.co/TR8WGSy/Picsart-24-03-25-08-09-24-059.png" group-title="Radio",Aaj Tak HD
+
+
+#EXTINF:-1 tvg-id="ts177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1115px-ABP_News_logo.svg.png" group-title="Radio",ABP News
 https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/playlist/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zeenews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="Radio",Zee News
+#EXTINF:-1 tvg-id="ts259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="Radio",Zee News
 https://amg01412-xiaomiasia-zeenews-xiaomi-nkeug.amagi.tv/playlist/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts104" tvg-logo="https://i.ibb.co/Vj34tw1/Picsart-24-03-25-08-24-44-185.png" group-title="Radio",India TV
+https://amg01412-xiaomiasia-indiatv-xiaomi-uzmb0.amagi.tv/playlist/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-logo="" group-title="Radio",NDTV India
 
 
 #################################################### News ########################################
